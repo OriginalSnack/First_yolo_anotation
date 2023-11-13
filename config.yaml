@@ -1,8 +1,8 @@
-path: /Users/stanislavkravciv/Desktop/train_data # datatest root dir
+path: /Users/stanislavkravciv/Desktop/train_data  # datatest root dir
 #train: images/train
 train: /Users/stanislavkravciv/Desktop/train_data/images/train
 #val: images/train
 val: /Users/stanislavkravciv/Desktop/train_data/images/train
 # Classes
 names:
-  0:helicopter
+  0: helicopter
